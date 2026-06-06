@@ -85,7 +85,7 @@ Expected page:
 
 ### Backup file and restored VM validation
 
-![Backup file created](screenshots/backup-file-created.png)
+![Backup file created](screenshots/backup-and-restore-validation.png)
 
 ### Nginx service after restore
 
